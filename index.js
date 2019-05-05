@@ -42,24 +42,12 @@ return arrayFacts
 // parameter. The condition of the loop should check to see that the parameter
 // number is less than `15`. The function should return the array with the strings
 // `"I love the Beatles!"`.
-function iLoveTheBeatles(number, IlovetheBeatles) {
-  var i = 1;
-  console.log(number);
-  console.log(IlovetheBeatles);
-  do {
-    i += 1;
-
-    i++
-  }
-   while (i < iLoveTheBeatles.length) {
-    console.log[i] += ["I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!",
-    "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!"];
-
-    i++
-  }
-    //console.log = ["I love the Beatles!"] ;
-    //expected result: return the array string "iLoveTheBeatles!"
-    {
-      return ["I love the Beatles!"]
-    i++
-  }}
+function iLoveTheBeatles(number) {
+var i = 0;
+do {
+  arr.push('I love the Beatles!');
+  i++;
+}
+while (i <== number && number < 15);
+return arr;
+}
