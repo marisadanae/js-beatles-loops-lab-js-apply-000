@@ -60,7 +60,6 @@ function iLoveTheBeatles(number, IlovetheBeatles) {
     //console.log = ["I love the Beatles!"] ;
     //expected result: return the array string "iLoveTheBeatles!"
     {
-      return ["I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!",
-      "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!"]
+      return ["I love the Beatles!"]
     i++
   }}
