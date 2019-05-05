@@ -63,4 +63,4 @@ function iLoveTheBeatles(number, IlovetheBeatles) {
       return ["I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!",
       "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!"]
     i++
-  };
+  }}
